@@ -1,0 +1,25 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "amit",
+      "password": "amit123",
+      "email": "amit@gmail.com",
+      "rol": 1
+    },
+    {
+      "id": 2,
+      "name": "hardik09",
+      "email": "hardikchaudhary647@gmail.com",
+      "password": "hkumar9655",
+      "rol": 2
+    },
+    {
+      "id": 3,
+      "name": "asasas",
+      "email": "asasas@gmail.com",
+      "password": "12345",
+      "rol": 2
+    }
+  ]
+}
